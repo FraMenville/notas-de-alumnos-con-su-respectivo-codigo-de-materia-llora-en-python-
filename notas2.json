@@ -1,0 +1,20 @@
+{
+  "alumnos": [
+    {
+      "DNI": "30550318",
+      "nombre": "Freddy",
+      "apellido": "Mendez",
+      "notas": {
+        "mat30123": 18
+      }
+    },
+    {
+      "DNI": "26307831",
+      "nombre": "Luigi",
+      "apellido": "Delgado",
+      "notas": {
+        "mat30123": 15
+      }
+    }
+  ]
+}
